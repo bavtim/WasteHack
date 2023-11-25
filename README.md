@@ -2,6 +2,7 @@
 ## Использование разработанного решения
 * Устанавливаем python 3.10 [тык](https://www.python.org/downloads/release/python-3100/)
 * Скачиваем исходники Backend (папка Backend)
+* Скачиваем разработанную модель [тык]([https://www.python.org/downloads/release/python-3100/](https://drive.google.com/file/d/1eZ-92d_02oLWUbgqqCOhWFa-sNDZwhgU/view?usp=sharing))
 * При помощи команды _pip install -r requirements.txt_ устанавливаем необходимые зависимости
 * Запускаем решение _uvicorn main:app --reload_
 * API взаимодействия доступно по ссылке _http://127.0.0.1:8000/docs_
